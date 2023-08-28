@@ -55,6 +55,7 @@
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^4.1.2",
     "file-loader": "^4.3.0",
+    "formatjs": "^0.1.1",
     "graphql": "~15.7.2",
     "identity-obj-proxy": "^3.0.0",
     "informed": "~3.29.0",
@@ -90,8 +91,5 @@
   "engines": {
     "node": ">=12",
     "npm": ">= 6"
-  },
-  "dependencies": {
-    "formatjs": "^0.1.1"
   }
 }
